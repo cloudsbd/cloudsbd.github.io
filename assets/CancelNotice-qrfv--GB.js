@@ -1,0 +1,1 @@
+import{r as s,j as t,T as o,a1 as n}from"./index-cVx9Zqte.js";const c=s.memo(({className:e})=>t.jsxs(o,{className:e,children:[t.jsx("strong",{children:"Please note:"})," you will still be billed for Object Storage unless you cancel it in your"," ",t.jsx(n,{to:"/account/settings",children:"Account Settings."})]}));export{c as C};

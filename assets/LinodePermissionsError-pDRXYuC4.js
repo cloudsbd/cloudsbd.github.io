@@ -1,0 +1,1 @@
+import{j as o,ad as t}from"./index-cVx9Zqte.js";const s=()=>o.jsx(t,{text:"You don't have permission to modify this Linode. Please contact an account administrator for details.",variant:"error"});export{s as L};

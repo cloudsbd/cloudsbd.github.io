@@ -1,0 +1,1 @@
+const o=(e,i)=>i.map(t=>{const n=e.find(r=>r.entity.type==="linode"&&r.entity.id===t.id);return n?{...t,maintenance:{when:n.when}}:{...t,maintenance:null}}),a=(e,i)=>{if(!e)return"read_write";const n=e.linode.find(r=>r.id===i);return n?n.permissions:"read_write"};export{o as a,a as g};

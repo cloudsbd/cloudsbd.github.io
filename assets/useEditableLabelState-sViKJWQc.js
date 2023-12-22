@@ -1,0 +1,1 @@
+import{r as t}from"./index-cVx9Zqte.js";const o=()=>{const[a,r]=t.useState(""),[b,e]=t.useState("");return{editableLabel:a,editableLabelError:b,resetEditableLabel:()=>{e("")},setEditableLabel:r,setEditableLabelError:e}};export{o as u};

@@ -1,0 +1,1 @@
+import{ao as n,bp as e,r as u}from"./index-cVx9Zqte.js";const p=r=>o=>{const s=n(),t=e();return u.createElement(r,{...o,grants:t,profile:s})},f=(r,o)=>Object.keys(r).reduce((s,t)=>(o==="public"&&r[t].is_public&&(s[t]=r[t]),o==="private"&&!r[t].is_public&&(s[t]=r[t]),s),{}),b=r=>!!(r!=null&&r.startsWith("linode/"))&&!!(r!=null&&r.includes("kube"));export{f,b as i,p as w};

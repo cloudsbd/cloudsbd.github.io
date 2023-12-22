@@ -1,0 +1,1 @@
+import{r as i,j as u,C as c}from"./index-cVx9Zqte.js";const f=1e3,d=({children:a,delayInMS:e,shouldDelay:r})=>{const[n,s]=i.useState(!1);return i.useEffect(()=>{let o=!1,t=null;return r||typeof e=="number"?t=setTimeout(()=>{o||s(!0)},typeof e=="number"?e:f):s(!0),()=>{o=!0,t&&clearTimeout(t)}},[r,e]),n?a||u.jsx(c,{"data-testid":"circle-progress"}):null};export{d as L};
