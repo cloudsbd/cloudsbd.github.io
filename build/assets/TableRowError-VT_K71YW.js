@@ -1,0 +1,1 @@
+import{j as r,E as a}from"./index-cVx9Zqte.js";import{T as o,a as t}from"./TableRow-WjckZ-OR.js";const c=e=>r.jsx(o,{"data-testid":"table-row-error",children:r.jsx(t,{colSpan:e.colSpan,children:r.jsx(a,{compact:!0,errorText:e.message})})});export{c as T};

@@ -1,0 +1,1 @@
+#dev-tools{position:fixed;bottom:0;background:black;opacity:.4;color:#fff;width:100%;padding:20px;height:60px;width:60px;transition:all .3s;z-index:1}#dev-tools:hover{height:300px;width:100%;opacity:.9}#dev-tools .tools{display:none}#dev-tools:hover .tools{display:flex}@media only screen and (max-width: 960px){#dev-tools:hover .tools{justify-content:space-between}}

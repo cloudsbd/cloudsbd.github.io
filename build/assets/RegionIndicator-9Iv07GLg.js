@@ -1,0 +1,1 @@
+import{ba as r,j as i}from"./index-cVx9Zqte.js";const c=s=>{const{region:n}=s,{data:e}=r(),t=e==null?void 0:e.find(o=>o.id===n);return i.jsx("div",{style:{alignItems:"center",whiteSpace:"nowrap"},children:(t==null?void 0:t.label)??n})};export{c as R};

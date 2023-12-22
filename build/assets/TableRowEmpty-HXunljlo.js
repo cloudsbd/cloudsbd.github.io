@@ -1,0 +1,1 @@
+import{s as t,j as o}from"./index-cVx9Zqte.js";import{a as l,T as r}from"./TableRow-WjckZ-OR.js";const n=e=>o.jsx(r,{"data-testid":"table-row-empty",children:o.jsx(a,{colSpan:e.colSpan,children:e.message||"No items to display."})}),a=t(l)(({theme:e})=>({borderColor:e.borderColors.borderTable,textAlign:"center"}));export{n as T};

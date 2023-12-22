@@ -1,0 +1,1 @@
+import{s as e,j as s}from"./index-cVx9Zqte.js";const a={uk:"gb"},r=t=>{const o=t.country.toLowerCase();return s.jsx(l,{className:`fi fi-${a[o]??o} fi-xx`})},l=e("div",{label:"StyledFlag"})(({theme:t})=>({boxShadow:t.palette.mode==="light"?"0px 0px 0px 1px #00000010":void 0,fontSize:"1.5rem",verticalAlign:"top",width:"1.41rem"}));export{r as F};

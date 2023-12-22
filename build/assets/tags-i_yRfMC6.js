@@ -1,0 +1,1 @@
+import{au as u,ax as o,aN as r,fC as n}from"./index-cVx9Zqte.js";const g="tags",y=(a=!0)=>u(g,()=>l(),{...o.longLived,enabled:a}),l=(a={},t={})=>r((s,e)=>n({...s,...a},{...e,...t}))().then(s=>s.data),c=(a,t)=>{const s=Array.from(new Set(a.map(e=>e.label))).sort().map(e=>({label:e}));t.setQueryData(g,s)};export{c as a,y as u};

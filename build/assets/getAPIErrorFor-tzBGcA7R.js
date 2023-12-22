@@ -1,0 +1,1 @@
+import{dc as f}from"./index-cVx9Zqte.js";const d=(o,r=[])=>n=>{if(!Array.isArray(r))return n==="none"?f:void 0;let e;if(n==="none"?e=r.find(i=>!i.hasOwnProperty("field")):e=r.find(i=>i.field===n),!!e)return e.field&&o[e.field]?e.reason.replace(e.field,o[e.field]):e.reason};export{d as g};

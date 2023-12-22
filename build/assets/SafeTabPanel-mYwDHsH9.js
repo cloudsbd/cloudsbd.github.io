@@ -1,0 +1,1 @@
+import{j as o}from"./index-cVx9Zqte.js";import{u as r,d as l}from"./TabList-Vcpmm6u6.js";const i=e=>{const{index:n,...s}=e,{selectedIndex:t}=r(),a=t===n;return o.jsx(l,{...s,children:a?e.children:null})};export{i as S};

@@ -1,0 +1,1 @@
+import{r as a}from"./index-cVx9Zqte.js";const c={open:!1},l=(o=c)=>{const[s,t]=a.useState(o),n=()=>t(e=>({...e,open:!0})),p=()=>t(e=>({...e,open:!1})),r=s.open;return{close:p,isOpen:r,open:n}};export{l as u};

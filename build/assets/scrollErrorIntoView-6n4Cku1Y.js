@@ -1,0 +1,1 @@
+const a=(e,r)=>{const c=e?`.error-for-scroll-${e}`:".error-for-scroll",l=document.querySelectorAll(c)[0];l&&l.scrollIntoView({behavior:(r==null?void 0:r.behavior)??"auto",block:(r==null?void 0:r.block)??"center",inline:(r==null?void 0:r.inline)??"nearest"})};export{a as s};

@@ -1,0 +1,1 @@
+import{au as a,ax as s,aN as r,by as c}from"./index-cVx9Zqte.js";const u="account-maintenance",l=(e={},n={})=>r((t,o)=>c({...t,...e},{...o,...n}))().then(t=>t.data),i=(e={},n={},t=!0)=>a([u,"all",e,n],()=>l(e,n),{...s.longLived,enabled:t}),A=(e,n)=>a([u,e,n],()=>c(e,n),{keepPreviousData:!0,refetchInterval:2e4,refetchOnWindowFocus:"always"});export{A as a,i as u};

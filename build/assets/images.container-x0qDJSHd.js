@@ -1,0 +1,1 @@
+import{b9 as m,cW as g,j as n}from"./index-cVx9Zqte.js";const d=a=>s=>{const{data:t,dataUpdatedAt:e,error:i,isLoading:o}=m(),r=g(t??[]);return n.jsx(a,{imagesData:r,imagesError:i??void 0,imagesLastUpdated:e,imagesLoading:o,...s})},p=d;export{p as w};
